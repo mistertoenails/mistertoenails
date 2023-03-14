@@ -1,8 +1,8 @@
 
 
 <h1> all about me, if someone wants to know <h1>
-  
-  
+ 
+ <p> 
   ```
   ~/Universe/world/people$ birth --year 2004 --month 2 --day 4 --name Ethan
 
@@ -37,4 +37,4 @@
 ~/Universe/world/people/ethan/skills/coding$ mkdir c
   
   ```
-
+  </p>
